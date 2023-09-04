@@ -1,5 +1,6 @@
 # Accounting Application for a Contracting Company
 link https://play.google.com/store/apps/details?id=com.b.bahar_app.bahar&hl=ar&gl=US
+landding page https://b.bahar-app.com/
 This is an accounting application designed for a contracting company to manage workers’ and project’s expenses, record attendance and absence of workers, as well as deductions, efficiency, payments to the project supervisor, and generate reports for the project, workers per month, and individual accounts for the worker, supervisor, and admin.
 
 ## Features
